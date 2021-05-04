@@ -1,9 +1,9 @@
 {
-  "name": "michaelpallister.dev",
+  "name": "get-data",
+  "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:micppp/michaelpallister.dev.git",
-  "author": "Michael Pallister <michael@micp.co.uk>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "chrome-aws-lambda": "^8.0.2",
