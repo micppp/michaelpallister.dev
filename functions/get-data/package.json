@@ -2,7 +2,7 @@
   "name": "get-data",
   "description": "",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "get-data.js",
   "author": "",
   "license": "MIT",
   "dependencies": {
