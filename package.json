@@ -1,0 +1,12 @@
+{
+  "name": "michaelpallister.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:micppp/michaelpallister.dev.git",
+  "author": "Michael Pallister <michael@micp.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^8.0.2",
+    "puppeteer-core": "^9.1.0"
+  }
+}
